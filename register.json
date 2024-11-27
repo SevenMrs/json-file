@@ -1,0 +1,11 @@
+{
+  "Code": 200,
+  "Data": {
+    "sign": "MOON_SEVEN_SIGN",
+    "deviceID": "",
+    "email": "moon@email.com",
+    "purchasedAt": "purchasedAt",
+    "updatesAvailableUntil": "31 Dec 2099"
+  },
+  "Message": "Ok"
+}
